@@ -11,9 +11,8 @@ Learn more at [stephango.com/flexoki](https://stephango.com/flexoki)
 ### Method 1
 1. Copy `https://github.com/euandeas/omarchy-flexoki-dark-theme`
 2. Click `SUPER + ALT + SPACE`
-3. Click `Install`
-4. Click `Theme`
-5. Paste the link 
+3. Click `Install > Style > Theme`
+4. Paste the link 
 
 ### Method 2:
 ```bash
