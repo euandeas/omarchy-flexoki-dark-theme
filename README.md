@@ -4,7 +4,7 @@ Flexoki is an inky color scheme for prose and code. Flexoki is designed for read
 
 Flexoki is minimalistic and high-contrast. The colors are calibrated for legibility and perceptual balance across devices and when switching between light and dark modes.
 
-stephango.com/flexoki
+Learn more at [stephango.com/flexoki](https://stephango.com/flexoki)
 
 ## Installation:
 
