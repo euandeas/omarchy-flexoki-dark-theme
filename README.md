@@ -1,5 +1,11 @@
 # Flexoki Dark - Theme for Omarchy
 
+Flexoki is an inky color scheme for prose and code. Flexoki is designed for reading and writing on digital screens. It is inspired by analog inks and warm shades of paper.
+
+Flexoki is minimalistic and high-contrast. The colors are calibrated for legibility and perceptual balance across devices and when switching between light and dark modes.
+
+stephango.com/flexoki
+
 ## Installation:
 
 ### Method 1
