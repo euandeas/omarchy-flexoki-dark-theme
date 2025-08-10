@@ -53,5 +53,5 @@ This theme includes a script to customize the accent/tint color used throughout 
 
 ## Preview
 
-![preview image](https://i.imgur.com/Iy7lAAM.png)
-![preview image 2](https://i.imgur.com/w4cF2b5.png)
+![preview image](https://i.imgur.com/DhBrcUG.png)
+![preview image 2](https://i.imgur.com/xxyiN0k.png)
