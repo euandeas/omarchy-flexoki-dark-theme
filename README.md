@@ -6,6 +6,8 @@ Flexoki is minimalistic and high-contrast. The colors are calibrated for legibil
 
 Learn more at [stephango.com/flexoki](https://stephango.com/flexoki)
 
+Flexoki Light: [github.com/euandeas/omarchy-flexoki-light-theme](https://github.com/euandeas/omarchy-flexoki-light-theme)
+
 ## Installation:
 
 ### Method 1
