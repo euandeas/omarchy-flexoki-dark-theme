@@ -18,6 +18,7 @@ Learn more at [stephango.com/flexoki](https://stephango.com/flexoki)
 ```bash
 omarchy-theme-install https://github.com/euandeas/omarchy-flexoki-dark-theme.git
 ```
+
 ## Changing Tint Colors
 
 This theme includes a script to customize the accent/tint color used throughout the interface.
