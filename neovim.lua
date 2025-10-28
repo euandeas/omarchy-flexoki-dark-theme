@@ -1,9 +1,13 @@
 return {
-    { 'kepano/flexoki-neovim', name = 'flexoki' },
-    {
-        "LazyVim/LazyVim",
-        opts = {
-            colorscheme = "flexoki-dark",
-        },
+  {
+    "kepano/flexoki-neovim",
+    name = "flexoki",
+    priority = 1000,
+  },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "flexoki-dark",
     },
+  },
 }
